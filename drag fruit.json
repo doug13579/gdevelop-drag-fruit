@@ -685,14 +685,7 @@
           "name": "AppleAnchor",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [
-            {
-              "folded": true,
-              "name": "IsEmpty",
-              "type": "boolean",
-              "value": true
-            }
-          ],
+          "variables": [],
           "effects": [],
           "behaviors": [],
           "animations": [
@@ -753,14 +746,7 @@
           "name": "OrangeAnchor",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [
-            {
-              "folded": true,
-              "name": "IsEmpty",
-              "type": "boolean",
-              "value": true
-            }
-          ],
+          "variables": [],
           "effects": [],
           "behaviors": [],
           "animations": [
@@ -821,14 +807,7 @@
           "name": "BananaAnchor",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [
-            {
-              "folded": true,
-              "name": "IsEmpty",
-              "type": "boolean",
-              "value": true
-            }
-          ],
+          "variables": [],
           "effects": [],
           "behaviors": [],
           "animations": [
